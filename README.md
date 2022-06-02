@@ -13,7 +13,7 @@ Messing around with tuProlog
   
   **stack_peek(Stack, Top)** returns current **Top** element of **Stack** given;
   
-  **stack_size(Stack, Size)** return current **Stack** size;
+  **stack_size(Stack, Size)** returns current **Stack** size;
   
   **stack_pop(Stack, Result, Value)** removes current **Top** element of **Stack** and returns its **Value**, resulting **Stack** is written to **Result**.
   
