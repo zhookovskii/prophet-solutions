@@ -2,9 +2,9 @@
 # prophet-solutions
 Messing around with tuProlog
 
-**linked-stack.pl**
+##**linked-stack.pl**
 
-  A simple implementation of Stack data structure based on Linked Queue.
+  ###A simple implementation of Stack data structure based on Linked Queue.
   
   Elements inside **Stack** are pseudo-constructors **elem(Top, Next, Size)**, where **Top** is the current top of **Stack**, **Next** is next element after **Top** and   **Size** is current **Stack** size.
   
